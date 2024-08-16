@@ -36,7 +36,7 @@ Esta tecnica busca tomar la mejor acción de acuerdo a un estado. En la siguient
 podemos observar que el `Agente` interactua con un `Ambiente` y dependiendo de las acciones que tome el agente se modifica el estado del ambiente. Para poder definir cual es la mejor acción para cada estado se basa en la premiación (`reward`).
 
 Para analizar el funcionamiento del aprendizaje por refuerzo se propone el siguiente taller:
-* [Taller Clasificación](https://github.com/cgl-itm/HerramientasIA/blob/main/01_IA_Basico/TallerRefuerzo.md)
+* [Taller Refuerzo](https://github.com/cgl-itm/HerramientasIA/blob/main/01_IA_Basico/TallerRefuerzo.md)
 
 # Deep Learning
 * [Transformer Explainer](https://poloclub.github.io/transformer-explainer/)
