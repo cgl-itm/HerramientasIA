@@ -23,12 +23,19 @@ La clasificacion es una tarea que consiste aprender la relacion entre una entrad
 
 Para la tarea de clasificación se propone el siguiente taller
 * [Taller Clasificación](https://github.com/cgl-itm/HerramientasIA/blob/main/01_IA_Basico/TallerClasificacion.md)
-
-  
+ 
 ## Regresión
+Esta tarea consiste en aproximar funciones `f(x)` donde `x` es la entrada y `f(x)` es la salida. Para entrenar estos metodos de regresion, se requiere una tabla con valores de `x` y valores dw `f(x)`, con el fin que método aprenda a relacionar la entrada con la salida. <br>
+
 * [Regresion ejemplo](https://appregression-gvxzp9puusjuz6h69ycpis.streamlit.app/)
-  
+ 
+Para la tarea de clasificación se propone el siguiente taller:
+* [Taller Clasificación](https://github.com/cgl-itm/HerramientasIA/blob/main/01_IA_Basico/TallerRegresion.md) 
+
 # Aprendizaje por refuerzo
+Esta tecnica busca tomar la mejor accion de acuerdo a un estado. En la siguiente figura
+<img src="https://deepanshut041.github.io/Reinforcement-Learning/notes/00_Introduction_to_rl/images/intro_to_rl.png" alt="drawing" style="width:400px;"/> <br>
+podemos observar que el `Agente` interactura con un `Ambiente` y dependiendo de las acciones que tome el agente se modifica el estado del ambiente. Para poder definir cual es la mejor acción para cada estado se basa en la premiación (`reward`).
 
 # Deep Learning
 * [Transformer Explainer](https://poloclub.github.io/transformer-explainer/)
