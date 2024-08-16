@@ -19,7 +19,8 @@ Es el tipo de aprendizaje mas empleado debido a su gran conjunto de aplicaiones.
 La clasificacion es una tarea que consiste aprender la relacion entre una entrada y una salida. La entrada puede ser desde un valor escalar hasta una imagen, y la salida es la clase que tiene asignada la entrada. Por ejemplo, entra la `imagen de un gato`, y el clasificador debe devolver el valor de la clase `gato`.
 * [ML Playground](https://ml-playground.com/)
 * [SVM demo](https://greitemann.dev/svm-demo)
-* [SkLearn models](https://www.stefanom.io/sklearn-classifiers-playground/)
+* [SkLearn models](https://www.stefanom.io/sklearn-classifiers-playground/) 
+
 Para la tarea de clasificación se propone el siguiente taller
 * [Taller Clasificación](https://github.com/cgl-itm/HerramientasIA/blob/main/01_IA_Basico/TallerClasificacion.md)
 
