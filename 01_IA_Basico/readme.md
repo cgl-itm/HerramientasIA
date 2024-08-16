@@ -10,7 +10,7 @@ Podemos también analizar algoritmos mas sofisticados
 * [druidjs generator](https://observablehq.com/@john-guerra/druidjs-generator)
 
 Para aterrizar el funcionamiento de estos algoritmos se proponen el siguiente taller de actividades:
-1. []()
+* [Taller K-means](https://github.com/cgl-itm/HerramientasIA/blob/main/01_IA_Basico/TallerNoSupervisado.md)
 
 # Aprendizaje supervisado
 * [ML Playground](https://ml-playground.com/)
