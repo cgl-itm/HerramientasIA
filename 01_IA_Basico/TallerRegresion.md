@@ -1,6 +1,7 @@
 # Taller Aprendizaje supervisado - Regresión 
 Para las actividades propuestas en esta sección, utilizaremos la aplicación
 - [Regresión ejemplo](https://appregression-gvxzp9puusjuz6h69ycpis.streamlit.app/)
+  
 En esta aplicación fue creada con ayuda de [Claude](https://claude.ai/) y [Streamlit](https://streamlit.io/).
 Estos son los pasos propuestos para el taller
 1. Seleccionar en `function tpe` la opción `sine`.
