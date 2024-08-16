@@ -11,5 +11,5 @@ La idea es resolver el laberinto siguiente una de estas tres rutas
 <img src="https://raw.githubusercontent.com/cgl-itm/HerramientasIA/main/assets/RLMaze01.png" alt="drawing" style="width:400px;"/> <br>
 El agente no sabe cual es la solución, y al comienzo seleccionada de manera aleatoria las acciones, hasta empezar a recibir las recompensas.
 
-1. Ejecutar la simulacion para cada metodo de aprendizaje.
-2. Ordenar de mejor a peor el desempeño de cada metodo de acuerdo a las soluciones encontradas.
+1. Ejecutar la simulación para cada método de aprendizaje.
+2. Ordenar de mejor a peor el desempeño de cada método de acuerdo a las soluciones encontradas.
