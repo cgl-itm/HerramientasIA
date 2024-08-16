@@ -8,5 +8,5 @@ Estos son los pasos propuestos
 4. Dar clic en `GO` y luego en `Update Centroids`, entonces los grupos quedaran bien agrupados.
 5. Dar clic en reset y repetir los pasos 1 y 2.
 6. Ubicar los centroides como se muestra en la siguiente figura
-<img src="https://raw.githubusercontent.com/cgl-itm/HerramientasIA/main/assets/Kmeans01.png" alt="drawing" style="width:400px;"/> <br>
+<img src="https://raw.githubusercontent.com/cgl-itm/HerramientasIA/main/assets/Kmeans02.png" alt="drawing" style="width:400px;"/> <br>
 7. Dar clic en `GO` y luego en `Update Centroids` sucesivamente. Que pasa en este caso con el proceso de agrupamiento?
