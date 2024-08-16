@@ -1,0 +1,11 @@
+# Taller Aprendizaje por refuerzo
+Para las actividades propuestas en esta sección, utilizaremos la aplicación
+- [Reinforcement Learning Playground](https://alazareva.github.io/rl_playground/)
+  
+En esta aplicación permite probar diferentes esquemas de aprendizaje como SARSA, Q-learning y Dyna-Q. El ambiente 
+tiene 54 estados, correspondientes a las celdas en el laberinto. Se pueden tomar 4 acciones (arriba, abajo, izquierda y derecha).
+El agente recibe una recompensa de -0.01 sí intenta salirse del mapa o atravesar un muro. Recibe una recompensa de +10
+sí llega a su objetivo.
+
+1. Ejecutar la simulacion para cada metodo de aprendizaje.
+2. Ordenar de mejor a peor el desempeño de cada metodo de acuerdo a las soluciones encontradas.
