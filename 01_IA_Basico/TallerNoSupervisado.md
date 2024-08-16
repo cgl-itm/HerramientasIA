@@ -10,3 +10,4 @@ Estos son los pasos propuestos
 6. Ubicar los centroides como se muestra en la siguiente figura
 <img src="https://raw.githubusercontent.com/cgl-itm/HerramientasIA/main/assets/Kmeans02.png" alt="drawing" style="width:400px;"/> <br>
 7. Dar clic en `GO` y luego en `Update Centroids` sucesivamente. Que pasa en este caso con el proceso de agrupamiento?
+8. Probar colocando los tres centroides juntos en una de las esquinas, Que ocurre con el agrupamiento?
