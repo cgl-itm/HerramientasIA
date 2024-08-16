@@ -25,12 +25,10 @@ Para la tarea de clasificación se propone el siguiente taller
 * [Taller Clasificación](https://github.com/cgl-itm/HerramientasIA/blob/main/01_IA_Basico/TallerClasificacion.md)
  
 ## Regresión
-Esta tarea consiste en aproximar funciones `f(x)` donde `x` es la entrada y `f(x)` es la salida. Para entrenar estos metodos de regresion, se requiere una tabla con valores de `x` y valores dw `f(x)`, con el fin que método aprenda a relacionar la entrada con la salida. <br>
+Esta tarea consiste en aproximar funciones `f(x)` donde `x` es la entrada y `f(x)` es la salida. Para entrenar estos métodos de regresión, se requiere una tabla con valores de `x` y valores de `f(x)`, con el fin que método aprenda a relacionar la entrada con la salida. <br>
 
-* [Regresion ejemplo](https://appregression-gvxzp9puusjuz6h69ycpis.streamlit.app/)
- 
-Para la tarea de clasificación se propone el siguiente taller:
-* [Taller Clasificación](https://github.com/cgl-itm/HerramientasIA/blob/main/01_IA_Basico/TallerRegresion.md) 
+Para la tarea de regresión se propone el siguiente taller:
+* [Taller regresion](https://github.com/cgl-itm/HerramientasIA/blob/main/01_IA_Basico/TallerRegresion.md) 
 
 # Aprendizaje por refuerzo
 Esta tecnica busca tomar la mejor acción de acuerdo a un estado. En la siguiente figura
