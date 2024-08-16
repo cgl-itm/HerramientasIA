@@ -1,4 +1,4 @@
-Para las actividades propuestas en esta seccion, utilizaremos la aplicaciones
+Para las actividades propuestas en esta sección, utilizaremos la aplicación
 - [visualizing-k-means-clustering](https://www.naftaliharris.com/blog/visualizing-k-means-clustering/)
 Estos son los pasos propuestos
 1. Seleccionar la opcion `I'll Choose` (yo selecciono).
