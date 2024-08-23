@@ -45,6 +45,7 @@ Para analizar el funcionamiento del aprendizaje por refuerzo se propone el sigui
 
 ## Convolutional Neural Networks
 * [Image Kernels](https://setosa.io/ev/image-kernels/)
+* [3D Visualization Number CNN](https://adamharley.com/nn_vis/cnn/3d.html)
 * [CNN Explainer](https://poloclub.github.io/cnn-explainer/)
 
 ## Generative Adversarial Networks
