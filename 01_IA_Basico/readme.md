@@ -39,10 +39,21 @@ Para analizar el funcionamiento del aprendizaje por refuerzo se propone el sigui
 * [Taller Refuerzo](https://github.com/cgl-itm/HerramientasIA/blob/main/01_IA_Basico/TallerRefuerzo.md)
 
 # Deep Learning
+## Neural Netrowks
+* [3D Visualization Number Classification](https://adamharley.com/nn_vis/mlp/3d.html)
+* [Tensorflow - Playground](https://playground.tensorflow.org/)
+
+## Convolutional Neural Networks
+* [CNN Explainer](https://poloclub.github.io/cnn-explainer/)
+
+## Generative Adversarial Networks
+* [Generative Adversarial Networks - GANs](https://poloclub.github.io/ganlab/)
+
+## Advanced Topics
 * [Transformer Explainer](https://poloclub.github.io/transformer-explainer/)
 * [Diffusion Explainer](https://poloclub.github.io/diffusion-explainer/)
-* [CNN Explainer](https://poloclub.github.io/cnn-explainer/)
-* [Generative Adversarial Networks - GANs](https://poloclub.github.io/ganlab/)
+
+
 
 # Explain any model
 * [SHAP demo](https://poloclub.github.io/webshap/)
