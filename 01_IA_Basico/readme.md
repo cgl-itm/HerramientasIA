@@ -44,16 +44,16 @@ Para analizar el funcionamiento del aprendizaje por refuerzo se propone el sigui
 * [Tensorflow - Playground](https://playground.tensorflow.org/)
 
 ## Convolutional Neural Networks
+* [Image Kernels](https://setosa.io/ev/image-kernels/)
 * [CNN Explainer](https://poloclub.github.io/cnn-explainer/)
 
 ## Generative Adversarial Networks
 * [Generative Adversarial Networks - GANs](https://poloclub.github.io/ganlab/)
-
+* [Sneaker Generator](https://huggingface.co/spaces/adit-desai/gans-sneakers)
+  
 ## Advanced Topics
 * [Transformer Explainer](https://poloclub.github.io/transformer-explainer/)
 * [Diffusion Explainer](https://poloclub.github.io/diffusion-explainer/)
-
-
 
 # Explain any model
 * [SHAP demo](https://poloclub.github.io/webshap/)
