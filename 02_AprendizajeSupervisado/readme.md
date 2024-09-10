@@ -14,13 +14,13 @@ Los proytectos con imagenes se realizaran usando el modelo de imagen estandar de
    * Subir las imagenes a cada clase y entrenar el modelo. Verificar su desempeño.
    * Hacer una presentación donde se describar la base de datos, como entrenaron el modelo y la evaluación del desempeño. Realizar una demostración en la clase.
 
-2. Clasificacion de Posturas: Consiste entrenar el clasificador para que identifique 3 clases de posturas diferentes. Condiciones:
+2. Clasificacion de Posturas: Consiste entrenar el clasificador para que identifique 3 clases de posturas diferentes. Considere este [tutotial](https://medium.com/@warronbebster/teachable-machine-tutorial-head-tilt-f4f6116f491) como guia. Condiciones:
    * Seleccionar 3 posturas diferentes. 
    * Cada estudiante del subgrupo debe tomarse 10 fotos realizando cada postura. Entonces por postura se tendran 20 fotos (10 de cada estudiante).
    * Subir las imagenes a cada clase y entrenar el modelo. Verificar su desempeño.
    * Hacer una presentación donde se describar la base de datos, como entrenaron el modelo y la evaluación del desempeño. Realizar una demostración en la clase.
 
-3. Clasificación commandos de voz: Sabias que Alexa, Siri y OK Google funcionan clasificando el audio en textos. Para este mini proyecto los estudiantes deben construir una base de datos de comandos de voz. A partir de los audios construir un clasificador que indque cuando comando fue pronunciado. Usar este [tutorial](https://medium.com/@warronbebster/teachable-machine-tutorial-snap-clap-whistle-4212fd7f3555) para comprender los pasos a seguir.
+3. Clasificación commandos de voz: Sabias que Alexa, Siri y OK Google funcionan clasificando el audio en textos. Para este mini proyecto los estudiantes deben construir una base de datos silbando, aplaudiendo y chasquear los dedos. A partir de los audios construir un clasificador que indique cuando comando fue pronunciado. Usar este [tutorial](https://medium.com/@warronbebster/teachable-machine-tutorial-snap-clap-whistle-4212fd7f3555) para comprender los pasos a seguir.
 Condiciones:
    * Seleccionar 3 comandos de voz diferentes, y una clase adicional para el ruido. 
    * Cada estudiante del subgrupo debe grabar 10 audios de cada comando. Entonces por comando se tendran 20 audios (10 de cada estudiante).
