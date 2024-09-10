@@ -27,4 +27,9 @@ Condiciones:
    * Subir los audios a cada clase y entrenar el modelo. Verificar su desempeño.
    * Hacer una presentación donde se describar la base de datos, como entrenaron el modelo y la evaluación del desempeño. Realizar una demostración en la clase.    
 
+4. Clasificación de tipos de musica: Para este mini proyecto los estudiantes deben construir una base de datos a partir de diferentes audios con 3 tipos de musica diferentes (rock, pop, metal, salsa, regueton). A partir de los audios construir un clasificador que indique que tipo musica esta sonando. Usar este [tutorial](https://medium.com/@165498/teachable-machine-project-a-variation-of-classic-rock-music-9e0caf12bded) para comprender los pasos a seguir.
+Condiciones:
+   * Seleccionar 3 audios de musica diferentes, y una clase adicional para el ruido. 
+   * Subir los audios a cada clase y entrenar el modelo. Verificar su desempeño.
+   * Hacer una presentación donde se describar la base de datos, como entrenaron el modelo y la evaluación del desempeño. Realizar una demostración en la clase.   
 
