@@ -14,7 +14,7 @@ Los proytectos con imagenes se realizaran usando el modelo de imagen estandar de
    * Subir las imagenes a cada clase y entrenar el modelo. Verificar su desempeño.
    * Hacer una presentación donde se describar la base de datos, como entrenaron el modelo y la evaluación del desempeño. Realizar una demostración en la clase.
 
-2. Clasificacion de Posturas: Consiste entrenar el clasificador para que identifique 3 clases de posturas diferentes. Considere este [tutotial](https://medium.com/@warronbebster/teachable-machine-tutorial-head-tilt-f4f6116f491) como guia. Condiciones:
+2. Clasificacion de Posturas: Consiste entrenar el clasificador para que identifique 3 clases de posturas diferentes. Considere este [tutorial](https://medium.com/@warronbebster/teachable-machine-tutorial-head-tilt-f4f6116f491) como guia. Condiciones:
    * Seleccionar 3 posturas diferentes. 
    * Cada estudiante del subgrupo debe tomarse 10 fotos realizando cada postura. Entonces por postura se tendran 20 fotos (10 de cada estudiante).
    * Subir las imagenes a cada clase y entrenar el modelo. Verificar su desempeño.
