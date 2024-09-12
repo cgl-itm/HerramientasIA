@@ -33,3 +33,9 @@ Condiciones:
    * Subir los audios a cada clase y entrenar el modelo. Verificar su desempeño.
    * Hacer una presentación donde se describar la base de datos, como entrenaron el modelo y la evaluación del desempeño. Realizar una demostración en la clase.   
 
+## Proyectos con Edge Impulse
+1. Clasificacion de señales de acelerometros: Similar a la demostración realizada en clase. El proyecto consiste entrenar el clasificador para que identifique 3 clases diferentes de movimientos. Condiciones:
+   * Los movimientos seran realizados en el celular. 
+   * Cada estudiante del subgrupo debe tomarse 10 fotos realizando cada seña. Entonces por seña se tendran 20 fotos (10 de cada estudiante).
+   * Subir las imagenes a cada clase y entrenar el modelo. Verificar su desempeño.
+   * Hacer una presentación donde se describar la base de datos, como entrenaron el modelo y la evaluación del desempeño. Realizar una demostración en la clase.
