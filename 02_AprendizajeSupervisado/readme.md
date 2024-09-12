@@ -33,8 +33,8 @@ Condiciones:
    * Subir los audios a cada clase y entrenar el modelo. Verificar su desempeño.
    * Hacer una presentación donde se describar la base de datos, como entrenaron el modelo y la evaluación del desempeño. Realizar una demostración en la clase.   
 
-## Proyectos con Edge Impulse
-1. Clasificacion de señales de acelerometros: El proyecto consiste entrenar un clasificador de imagenes que identifique 3 tipos diferentes de imagenes. Condiciones:
+## Proyectos con Edge Impulse 
+1. Clasificacion de señales de acelerometros: El proyecto consiste entrenar un clasificador de imagenes que identifique 3 tipos diferentes de imagenes. Usar este [tutorial](https://docs.edgeimpulse.com/docs/tutorials/end-to-end-tutorials/image-classification) para comprender los pasos a seguir. Condiciones:
    * Construir una base de datos con tres objetos (botella, lapicero, billetera, etc). Las imagenes son de un solo objeto por clase. 
    * Cada estudiante del subgrupo debe tomarse 10 fotos de cada objeto. Entonces por clase o objeto se tendran 20 fotos (10 de cada estudiante).
    * Subir las imagenes de cada clase y entrenar el modelo. Verificar su desempeño.
