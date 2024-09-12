@@ -40,7 +40,7 @@ Condiciones:
    * Subir las imagenes de cada clase y entrenar el modelo. Verificar su desempeño.
    * Hacer una presentación donde se describar la base de datos, como entrenaron el modelo y la evaluación del desempeño. Realizar una demostración en la clase.
 
-2. Detecion de objetos: Para este mini proyecto los estudiantes deben construir una base de datos a partir de fotos o imagenes que contengan objetos. Luego se entrenara un modelo de aprendizaje supervisado para que detecte los objetos. Usar este [tutorial](https://docs.edgeimpulse.com/docs/tutorials/end-to-end-tutorials/object-detection/object-detection) para comprender los pasos a seguir.
+2. Detección de objetos: Para este mini proyecto los estudiantes deben construir una base de datos a partir de fotos o imagenes que contengan objetos. Luego se entrenara un modelo de aprendizaje supervisado para que detecte los objetos. Usar este [tutorial](https://docs.edgeimpulse.com/docs/tutorials/end-to-end-tutorials/object-detection/object-detection) para comprender los pasos a seguir.
    * Construir una base de datos con tres objetos (botella, lapicero, billetera, etc). Las imagenes pueden contener varios objetos. 
    * Cada estudiante del subgrupo debe tomar 20 fotos de los objetos. Entonces por clase o objeto se tendran 40 fotos (20 por cada estudiante).
    * Subir las imagenes de cada clase y entrenar el modelo. Verificar su desempeño.
