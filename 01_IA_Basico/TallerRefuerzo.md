@@ -7,9 +7,9 @@ tiene 54 estados, correspondientes a las celdas en el laberinto. Se pueden tomar
 El agente recibe una recompensa de -0.01 sí intenta salirse del mapa o atravesar un muro. Recibe una recompensa de +10
 sí llega a su objetivo.
 
-La idea es resolver el laberinto siguiente una de estas tres rutas
+La idea es resolver el laberinto siguiente una de estas tres rutas <br>
 <img src="https://raw.githubusercontent.com/cgl-itm/HerramientasIA/main/assets/RLMaze01.png" alt="drawing" style="width:400px;"/> <br>
-El agente no sabe cual es la solución, y al comienzo seleccionada de manera aleatoria las acciones, hasta empezar a recibir las recompensas.
+El agente no sabe cual es la solución, y al comienzo seleccionada de manera aleatoria las acciones, hasta empezar a recibir las recompensas. Al final las acciones que le permiten llegar a la mayor recompensa tienen mayor probabilidad de ser seleccionadas.
 
 1. Ejecutar la simulación para cada método de aprendizaje.
 2. Ordenar de mejor a peor el desempeño de cada método de acuerdo a las soluciones encontradas.
