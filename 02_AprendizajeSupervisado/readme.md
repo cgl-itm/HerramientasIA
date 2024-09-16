@@ -1,7 +1,7 @@
 # Aprendizaje Supervisado
 Es una de la tecnicas mas usada del aprendizaje automatico. Las tecnicas de Aprendizaje Supervisado se entrenan a partir de datos etiquetados (Regresion y Clasificación). La clasificación consiste en identificar una clase de una señal (audio), una imagen (objetos o poses). <br>
 
-Para comprender mejor el funcionamiento del Aprendizaje Supervisado se propnen un conjunto de mini proyectos para realizar en grupos. Se utiliza las plataformas Teachable Machines de Google y Edge Impulse.
+Para comprender mejor el funcionamiento del Aprendizaje Supervisado se proponen un conjunto de mini proyectos para realizar en grupos. Se utiliza las plataformas Teachable Machines de Google y Edge Impulse.
 
 ## Teachable Machines - Google
 Es una plataforma que permite subir bases de datos de Imagenes, Poses o Sonidos. A partir de estos datos se entrena un modelo de Deep Learning predefinido empleando Transfer Learnig. La base de datos es el principal insumo para estos modelos predefinidos. Para esta plataforma se proponen los siguientes mini proyectos: <br>
@@ -34,14 +34,19 @@ Condiciones:
    * Hacer una presentación donde se describar la base de datos, como entrenaron el modelo y la evaluación del desempeño. Realizar una demostración en la clase.   
 
 ## Proyectos con Edge Impulse 
-1. Clasificacion de señales de acelerometros: El proyecto consiste entrenar un clasificador de imagenes que identifique 3 tipos diferentes de imagenes. Usar este [tutorial](https://docs.edgeimpulse.com/docs/tutorials/end-to-end-tutorials/image-classification) para comprender los pasos a seguir. Condiciones:
+1. Clasificacion de señales de acelerometros: Nos podemos guiar con el ejemplo visto en clase.  
+   * Construir una base de datos con tres tipos diferentes de movimientos. Los movimientos pueden ser adelante-atras, hacer una W y una L. Tambien incluir muestras dejando el celular quieto. 
+   * Cada estudiante del subgrupo debe suministrar 10 mestras de 10s de cada clase. Entonces por tipo de movimiento se tendran 20 series de tiempo (10 de cada estudiante).
+   * Entrenar el modelo y verificar su desempeño observando la matriz de confusion del modelo entrenado.
+   * Hacer una presentación donde se describa la base de datos, como entrenaron el modelo y la evaluación del desempeño. Realizar una demostración en la clase.
+  
+3. Clasificacion de imagenes: El proyecto consiste entrenar un clasificador de imagenes que identifique 3 tipos diferentes de imagenes. Usar este [tutorial](https://docs.edgeimpulse.com/docs/tutorials/end-to-end-tutorials/image-classification) para comprender los pasos a seguir. Condiciones:
    * Construir una base de datos con tres objetos (botella, lapicero, billetera, etc). Las imagenes son de un solo objeto por clase. 
    * Cada estudiante del subgrupo debe tomarse 10 fotos de cada objeto. Entonces por clase o objeto se tendran 20 fotos (10 de cada estudiante).
    * Subir las imagenes de cada clase y entrenar el modelo. Verificar su desempeño.
    * Hacer una presentación donde se describar la base de datos, como entrenaron el modelo y la evaluación del desempeño. Realizar una demostración en la clase.
-
-2. Detección de objetos: Para este mini proyecto los estudiantes deben construir una base de datos a partir de fotos o imagenes que contengan objetos. Luego se entrenara un modelo de aprendizaje supervisado para que detecte los objetos. Usar este [tutorial](https://docs.edgeimpulse.com/docs/tutorials/end-to-end-tutorials/object-detection/object-detection) para comprender los pasos a seguir.
+4. Detección de objetos: Para este mini proyecto los estudiantes deben construir una base de datos a partir de fotos o imagenes que contengan objetos. Luego se entrenara un modelo de aprendizaje supervisado para que detecte los objetos. Usar este [tutorial](https://docs.edgeimpulse.com/docs/tutorials/end-to-end-tutorials/object-detection/object-detection) para comprender los pasos a seguir.
    * Construir una base de datos con tres objetos (botella, lapicero, billetera, etc). Las imagenes pueden contener varios objetos. 
    * Cada estudiante del subgrupo debe tomar 20 fotos de los objetos. Entonces por clase o objeto se tendran 40 fotos (20 por cada estudiante).
    * Subir las imagenes de cada clase y entrenar el modelo. Verificar su desempeño.
-   * Hacer una presentación donde se describar la base de datos, como entrenaron el modelo y la evaluación del desempeño. Realizar una demostración en la clase.
+   * Hacer una presentación donde se describa la base de datos, como entrenaron el modelo y la evaluación del desempeño. Realizar una demostración en la clase.
