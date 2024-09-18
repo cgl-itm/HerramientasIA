@@ -10,3 +10,9 @@
 * [v0 - Vercel](https://v0.dev/chat)
 * [Claude](https://claude.ai/)
 * [Cursor](https://www.cursor.com/)
+
+## Ciencia de Datos
+https://www.youtube.com/watch?v=MhDtioQkDVM
+* [Julius](https://julius.ai/)
+* [Power Drill](https://powerdrill.ai/)
+* [ChatGPT](https://chatgpt.com/)
