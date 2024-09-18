@@ -50,3 +50,9 @@ Condiciones:
    * Cada estudiante del subgrupo debe tomar 20 fotos de los objetos. Entonces por clase o objeto se tendran 40 fotos (20 por cada estudiante).
    * Subir las imagenes de cada clase y entrenar el modelo. Verificar su desempeño.
    * Hacer una presentación donde se describa la base de datos, como entrenaron el modelo y la evaluación del desempeño. Realizar una demostración en la clase.
+
+  ## Proyecto PyCaret
+  Para este proyecto se busca que los estudiantes muestren una librería que permite entrenar algoritmos de Aprendizaje Supervisado de una manera baja en codigo (low-code).
+  * Presentar la libreria PyCaret, para que es? y como se puede utilizar? Es necesario saber programar para usarla?
+  * Mostrar un ejemplo de Regresión. Mostrar la comparación de modelos de aprendizaje automático.
+  * Mostrar un ejemplo de Clasificación. Mostrar la comparación de modelos de aprendizaje automático.
