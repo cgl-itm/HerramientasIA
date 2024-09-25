@@ -2,9 +2,9 @@
 
 ## Chat LLMs 
 * [OpenAI - ChatGPT](https://chatgpt.com/)
-* [Google - Gemini]
-* [Microsoft - Copilot]
-* [Anthropic - Claude]
+* [Google - Gemini](https://gemini.google.com/app?hl=es)
+* [Microsoft - Copilot](https://copilot.microsoft.com/)
+* [Anthropic - Claude](https://claude.ai/)
 
 ## Generacion de Código y Aplicaciones. Editores de Codigo
 * [v0 - Vercel](https://v0.dev/chat)
