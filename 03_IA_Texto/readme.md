@@ -7,7 +7,7 @@
 * [Anthropic - Claude](https://claude.ai/)
 
 ## Generacion de Código y Aplicaciones. Editores de Codigo
-* [v0 - Vercel](https://v0.dev/chat)
+* [v0 - Vercel](https://v0.dev/chat) [DotCSV](https://www.youtube.com/watch?v=yLKyGB8AVSg)
 * [Claude](https://claude.ai/)
 * [Cursor](https://www.cursor.com/)
 
