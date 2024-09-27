@@ -1,9 +1,6 @@
 # Actividades para Ingenieria de Sistemas
 
-## 1. Presentarse a la IA
-Como primer paso se propone al estudiante presentarse a la IA construyendo un Prompt con toda la informacion importante. 
-
-## 2. ChatGPT para la productividad
+## 1. ChatGPT para la productividad
 ChatGPT puede ayudar al Ingeniero de sistemas en diversas tareas:
 * Uso de ChatGPT para soporte en la programación: generar código, depuración, y aprendizaje de lenguajes de programación.
 * Aplicaciones en análisis de datos y generación de reportes automatizados.
