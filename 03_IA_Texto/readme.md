@@ -3,20 +3,14 @@
 ## Primer Prompt - Presentarse a la IA
 
 Utilizar el siguiente prompt para presentarte a la IA y saber en que te puede ayudar:
-<style>
-  code {
-    white-space : pre-wrap !important;
-    word-break: break-word;
-  }
-</style>
+
 <code> Hola! mi nombre es [Nombre]. Soy estudiante del [Programa] y me gustan los temas de [Temas], tambien trabajo en [Trabajo] y realizo las siguientes actividades: 
 * [Actividad 1]
 * [Actividad 2]
 
 Me gustaría que, como asistente, me digas en que me podrías ayudar en mi día a día en el trabajo o el estudio. Haz una lista de tareas en las que podrías echarme una mano: </code>
 
-Entonces
-
+Entonces la IA te dira en que actividades te puede ayuar. Luego le puedes pedir que profundice en alguna actividad y que te de ejemplos.
 
 ## Actividades para cada programa
 * [Ingeniería de Sistemas]()
