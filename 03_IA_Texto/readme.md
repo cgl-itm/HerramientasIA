@@ -16,9 +16,10 @@ trabajo o el estudio. Haz una lista de tareas en las que podrías echarme una ma
 Entonces la IA te dira en que actividades te puede ayuar. Luego le puedes pedir que profundice en alguna actividad y que te de ejemplos.
 
 ## Actividades para cada programa
-* [Ingeniería de Sistemas]()
-* [Administración Tecnológica]()
-* [Gestión de la Administración]()
+* [Administración Tecnológica](https://github.com/cgl-itm/HerramientasIA/blob/main/03_IA_Texto/Actvidades_AdmTecnologica.md)
+* [Gestión de la Administración](https://github.com/cgl-itm/HerramientasIA/blob/main/03_IA_Texto/Actividades_GestAdministracion.md)
+* [Ingeniería de Sistemas](https://github.com/cgl-itm/HerramientasIA/blob/main/03_IA_Texto/Actividades_IngSistemas.md)
+
 
 ## Chat LLMs 
 * [OpenAI - ChatGPT](https://chatgpt.com/)
