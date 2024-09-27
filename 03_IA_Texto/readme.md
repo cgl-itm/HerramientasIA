@@ -25,14 +25,3 @@ Entonces la IA te dira en que actividades te puede ayuar. Luego le puedes pedir 
 * [Google - Gemini](https://gemini.google.com/app?hl=es)
 * [Microsoft - Copilot](https://copilot.microsoft.com/)
 * [Anthropic - Claude](https://claude.ai/)
-
-## Generacion de Código y Aplicaciones. Editores de Codigo
-* [v0 - Vercel](https://v0.dev/chat) [DotCSV](https://www.youtube.com/watch?v=yLKyGB8AVSg)
-* [Claude](https://claude.ai/)
-* [Cursor](https://www.cursor.com/)
-
-## Ciencia de Datos
-https://www.youtube.com/watch?v=MhDtioQkDVM
-* [Julius](https://julius.ai/)
-* [Power Drill](https://powerdrill.ai/)
-* [ChatGPT](https://chatgpt.com/)
