@@ -11,3 +11,14 @@ ChatGPT puede ayudar al Ingeniero de sistemas en diversas tareas:
 * Integración con plataformas de desarrollo y entornos de software.
 
 Observa la respuesta de ChatGPT en este [link](https://chatgpt.com/share/66f6419c-9cf4-8005-a8ae-1f802b6e12a4).
+
+## Generacion de Código y Aplicaciones. Editores de Codigo
+* [v0 - Vercel](https://v0.dev/chat) [DotCSV](https://www.youtube.com/watch?v=yLKyGB8AVSg)
+* [Claude](https://claude.ai/)
+* [Cursor](https://www.cursor.com/)
+
+## Ciencia de Datos
+https://www.youtube.com/watch?v=MhDtioQkDVM
+* [Julius](https://julius.ai/)
+* [Power Drill](https://powerdrill.ai/)
+* [ChatGPT](https://chatgpt.com/)
