@@ -5,7 +5,8 @@
 * [Actividad 1]
 * [Actividad 2]
 
-Me gustaría que, como asistente, me digas en que me podrías ayudar en mi día a día en el trabajo o el estudio. Haz una lista de tareas en las que podrías echarme una mano: ```
+Me gustaría que, como asistente, me digas en que me podrías ayudar en mi día a día en el trabajo o el estudio. Haz una lista de tareas en las que podrías echarme una mano: 
+```
 
 ## Actividades para cada programa
 * [Ingeniería de Sistemas]()
