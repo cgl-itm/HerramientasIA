@@ -1,7 +1,8 @@
 # IA Generativas de Texto a Texto - Chats
 
 ## Primer Prompt - Presentarse a la IA
->``` Hola! mi nombre es [Nombre]. Soy estudiante del [Programa] y me gustan los temas de [Temas], tambien trabajo en [Trabajo] y realizo las siguientes actividades: 
+```
+Hola! mi nombre es [Nombre]. Soy estudiante del [Programa] y me gustan los temas de [Temas], tambien trabajo en [Trabajo] y realizo las siguientes actividades: 
 * [Actividad 1]
 * [Actividad 2]
 
