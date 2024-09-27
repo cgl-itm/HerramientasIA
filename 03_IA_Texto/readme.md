@@ -1,13 +1,13 @@
 # IA Generativas de Texto a Texto - Chats
 
 ## Primer Prompt - Presentarse a la IA
-'''
+```
 Hola! mi nombre es [Nombre]. Soy estudiante del [Programa] y me gustan los temas de [Temas], tambien trabajo en [Trabajo] y realizo las siguientes actividades: 
 * [Actividad 1]
 * [Actividad 2]
 
 Me gustaría que, como asistente, me digas en que me podrías ayudar en mi día a día en el trabajo o el estudio. Haz una lista de tareas en las que podrías echarme una mano:
-'''
+```
 
 ## Actividades para cada programa
 * [Ingeniería de Sistemas]()
