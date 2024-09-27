@@ -20,3 +20,27 @@ ChatGPT dice que puede ayudar a los estudiantes de gestion administrativas en la
 * Coordinación de procesos: A través del análisis de flujos de trabajo, puedo recomendar ajustes para mejorar la coordinación y eficiencia de diferentes procesos dentro de una organización.
 * 
 En general, una IA como chatGPT puede actuar como una herramienta de soporte para optimizar tareas administrativas, mejorar la toma de decisiones y proponer soluciones innovadoras en la gestión de organizaciones.
+
+## Actividades
+1. Preguntale a ChatGPT que profundice en alguno de los topicos y te de ejemplos de uso.
+2. Mejorar el promtp anterior hasta obtener los resultados esperados, considerar el siguiente formato:
+**Rol:** Eres un administrador encargado de optimizar los procesos internos de una empresa mediana.
+
+**Tarea:** Diseñar un plan para mejorar la eficiencia de los procesos de toma de decisiones dentro de la empresa mediante el uso de software de análisis de datos.
+
+**Detalles específicos:** 
+- Implementar un sistema de BI (Business Intelligence) para la gestión de datos.
+- Optimizar el flujo de información entre departamentos.
+- Capacitar al personal en el uso de nuevas tecnologías para la toma de decisiones basadas en datos.
+
+**Contexto:** La empresa ha experimentado dificultades en la toma de decisiones debido a la falta de datos claros y accesibles para los responsables de diferentes áreas. Se necesita un sistema que permita obtener informes automatizados y en tiempo real.
+
+**Ejemplos:**
+- Generar informes automáticos de ventas diarias y pronósticos de demanda.
+- Desarrollar dashboards con KPIs clave para los gerentes de área.
+
+**Notas:**
+- Considerar el uso de herramientas como Tableau, Power BI o Google Data Studio.
+- Incluir un programa de capacitación para que el personal se familiarice con las nuevas herramientas.
+
+   
