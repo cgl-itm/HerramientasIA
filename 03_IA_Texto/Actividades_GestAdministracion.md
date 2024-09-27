@@ -24,6 +24,7 @@ En general, una IA como chatGPT puede actuar como una herramienta de soporte par
 ## Actividades
 1. Preguntale a ChatGPT que profundice en alguno de los topicos y te de ejemplos de uso.
 2. Mejorar el promtp anterior hasta obtener los resultados esperados, considerar el siguiente formato:
+   
 **Rol:** Eres un administrador encargado de optimizar los procesos internos de una empresa mediana.
 
 **Tarea:** Diseñar un plan para mejorar la eficiencia de los procesos de toma de decisiones dentro de la empresa mediante el uso de software de análisis de datos.
