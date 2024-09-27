@@ -1,5 +1,10 @@
 # IA Generativas de Texto a Texto - Chats
 
+## Actividades para cada programa
+* [Ingeniería de Sistemas]()
+* [Administración Tecnológica]()
+* [Gestión de la Administración]()
+
 ## Chat LLMs 
 * [OpenAI - ChatGPT](https://chatgpt.com/)
 * [Google - Gemini](https://gemini.google.com/app?hl=es)
