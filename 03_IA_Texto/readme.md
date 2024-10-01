@@ -20,6 +20,9 @@ Entonces la IA te dira en que actividades te puede ayuar. Luego le puedes pedir 
 * [Gestión de la Administración](https://github.com/cgl-itm/HerramientasIA/blob/main/03_IA_Texto/Actividades_GestAdministracion.md)
 * [Ingeniería de Sistemas](https://github.com/cgl-itm/HerramientasIA/blob/main/03_IA_Texto/Actividades_IngSistemas.md)
 
+## Informacion sobre Prompts
+* [YouTube - IA en la educacion superior](https://www.youtube.com/watch?v=BUo-pjvrf6Y)
+* [YouTube - Crea Prompts de forma profesional](https://www.youtube.com/watch?v=ZDcmLcVEmAs)
 
 ## Chat LLMs 
 * [OpenAI - ChatGPT](https://chatgpt.com/)
