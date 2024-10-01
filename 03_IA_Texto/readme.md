@@ -31,6 +31,7 @@ Entonces la IA te dira en que actividades te puede ayuar. Luego le puedes pedir 
 * [Anthropic - Claude](https://claude.ai/)
 
 ## Ejemplos Prompts
-<img src="[drawing.jpg](https://cdn-infographic.pressidium.com/wp-content/uploads/2024/01/Chat-GPT-Prompt-Frameworks.jpg)" alt="drawing" width="200"/>
+
+<img src="https://cdn-infographic.pressidium.com/wp-content/uploads/2024/01/Chat-GPT-Prompt-Frameworks.jpg" width="200">
 
 ![](https://cdn-infographic.pressidium.com/wp-content/uploads/2024/01/Chat-GPT-Prompt-Frameworks.jpg)
