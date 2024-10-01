@@ -12,7 +12,7 @@ ChatGPT dice que puede ayudar a los estudiantes de gestión administrativa en la
 
 3. Gestión Tecnológica de las Organizaciones:
 * Innovación en procesos: Aporto en el diseño de soluciones tecnológicas que optimicen procesos internos. Esto incluye el desarrollo de algoritmos para mejorar la eficiencia o implementar nuevas herramientas de análisis de datos.
-*Capacitación en herramientas tecnológicas: Ayudo a capacitar a los estudiantes y trabajadores en el uso de nuevas tecnologías relacionadas con la gestión administrativa, como herramientas de análisis de datos, manejo de información o sistemas de gestión empresarial.
+* Capacitación en herramientas tecnológicas: Ayudo a capacitar a los estudiantes y trabajadores en el uso de nuevas tecnologías relacionadas con la gestión administrativa, como herramientas de análisis de datos, manejo de información o sistemas de gestión empresarial.
 
 4. Perfil ocupacional:
 * Apoyo en la planeación y control de proyectos: A través de herramientas de gestión de proyectos, puedo facilitar la organización, cronogramas, distribución de recursos y evaluación de riesgos.
