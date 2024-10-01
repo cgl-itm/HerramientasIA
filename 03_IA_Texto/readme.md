@@ -32,6 +32,4 @@ Entonces la IA te dira en que actividades te puede ayuar. Luego le puedes pedir 
 
 ## Ejemplos Prompts
 
-<img src="https://cdn-infographic.pressidium.com/wp-content/uploads/2024/01/Chat-GPT-Prompt-Frameworks.jpg" width="200">
-
-![](https://cdn-infographic.pressidium.com/wp-content/uploads/2024/01/Chat-GPT-Prompt-Frameworks.jpg)
+<img src="https://cdn-infographic.pressidium.com/wp-content/uploads/2024/01/Chat-GPT-Prompt-Frameworks.jpg" width="400">
