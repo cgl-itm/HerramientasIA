@@ -1,7 +1,7 @@
 # Actividades Gestión Administrativa
 
 ## ChatGPT y el Programa
-ChatGPT dice que puede ayudar a los estudiantes de gestion administrativas en las siguientes actividades (ver [link](https://chatgpt.com/share/66f65082-adbc-8005-b18f-b605a1b29ff5)):
+ChatGPT dice que puede ayudar a los estudiantes de gestión administrativa en las siguientes actividades (ver [link](https://chatgpt.com/share/66f65082-adbc-8005-b18f-b605a1b29ff5)):
 
 1. Gestión de la Comunicación Organizacional:
 * Generación de textos: Puedo asistir en la creación de estrategias de comunicación, redactar correos, propuestas o comunicados formales y crear presentaciones claras y estructuradas.
