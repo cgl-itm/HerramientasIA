@@ -18,7 +18,7 @@ ChatGPT dice que puede ayudar a los estudiantes de gestión administrativa en la
 * Apoyo en la planeación y control de proyectos: A través de herramientas de gestión de proyectos, puedo facilitar la organización, cronogramas, distribución de recursos y evaluación de riesgos.
 * Apoyo al emprendimiento: Ofrezco ideas para modelar y mejorar planes de negocio, realizar estudios de mercado, y prever obstáculos empresariales. Además, puedo ayudar a simular estrategias de negocios y evaluar su viabilidad.
 * Coordinación de procesos: A través del análisis de flujos de trabajo, puedo recomendar ajustes para mejorar la coordinación y eficiencia de diferentes procesos dentro de una organización.
-* 
+
 En general, una IA como chatGPT puede actuar como una herramienta de soporte para optimizar tareas administrativas, mejorar la toma de decisiones y proponer soluciones innovadoras en la gestión de organizaciones.
 
 ## Actividades
