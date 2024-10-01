@@ -33,5 +33,6 @@ Entonces la IA te dira en que actividades te puede ayuar. Luego le puedes pedir 
 ## Ejemplos Prompts
 
 * [Como crear GPTs con un solo Prompt](https://www.youtube.com/watch?v=GfJxzWHNmxE)
+* Prompt con formato [REDICE](https://www.youtube.com/watch?v=raG27UGapis) (Rol, Entorno, Deber, Instrucciones, Comentario, Evaluar)
 * Prompt tipicos
 <img src="https://cdn-infographic.pressidium.com/wp-content/uploads/2024/01/Chat-GPT-Prompt-Frameworks.jpg" width="400">
