@@ -41,3 +41,6 @@ https://www.youtube.com/watch?v=MhDtioQkDVM
 * [Julius](https://julius.ai/)
 * [Power Drill](https://powerdrill.ai/)
 * [ChatGPT](https://chatgpt.com/)
+
+## Proyecto interesantes
+* [Crea tu propio RAG con n8n](https://www.youtube.com/watch?v=UeFi5oV9UpY)
