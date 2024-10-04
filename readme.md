@@ -8,7 +8,7 @@
 |      05       | Aprendizaje Supervisado   | Mini-Proyectos: Teachable Machines, Edge Impulse. |
 |      06       | Aprendizaje Supervisado   | Mini-Proyectos: Teachable Machines, Edge Impulse. |
 |      07       | IA Generativa texto-a-texto | ChatGPT, Claude, Gemini, Copilot, LLama  |
-|      08       | IA Generativa texto-a-texto | [Mini Proyecto: Diseño de Prompts](https://github.com/cgl-itm/HerramientasIA/tree/main/01_IA_Basico)  |
+|      08       | IA Generativa texto-a-texto | [Mini Proyecto: Diseño de Prompts](https://github.com/cgl-itm/HerramientasIA/blob/main/03_IA_Texto/FGL%20029%20Guia%20de%20Trabajo%20Practico%20-%20ChatGPT.pdf)  |
 
 # Aplicaciones para Chat
 * [ChatGPT - OpenAI](https://chatgpt.com/)
