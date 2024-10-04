@@ -39,4 +39,4 @@ Entonces la IA te dira en que actividades te puede ayuar. Luego le puedes pedir 
 <img src="https://raw.githubusercontent.com/cgl-itm/HerramientasIA/refs/heads/main/03_IA_Texto/TrucosChatGPT.jpg" width="400">
 
 # Mini Proyecto: Diseño de prompts
-* [Enlace documento]()
+* [Enlace documento](https://github.com/cgl-itm/HerramientasIA/blob/main/03_IA_Texto/FGL%20029%20Guia%20de%20Trabajo%20Practico%20-%20ChatGPT.pdf)
