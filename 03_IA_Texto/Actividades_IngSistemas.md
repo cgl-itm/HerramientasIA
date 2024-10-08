@@ -33,9 +33,9 @@ Observa la respuesta de ChatGPT en este [link](https://chatgpt.com/share/66f6419
 
 ## Generacion de Código y Aplicaciones. Editores de Codigo
 * [v0 - Vercel](https://v0.dev/chat) [DotCSV](https://www.youtube.com/watch?v=yLKyGB8AVSg)
-* [Claude](https://claude.ai/)
+* [Claude - Anthrophic](https://claude.ai/)
 * [Cursor](https://www.cursor.com/)
-* [Bolt](https://bolt.new/): Generacion de proyectos de desarrollo con IA. Ver [video](https://www.youtube.com/watch?v=06sbM5DQrdE).
+* [Bolt - StackBlitz](https://bolt.new/): Generacion de proyectos de desarrollo con IA. Ver [video](https://www.youtube.com/watch?v=06sbM5DQrdE).
 
 ## Ciencia de Datos
 https://www.youtube.com/watch?v=MhDtioQkDVM
