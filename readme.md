@@ -6,9 +6,12 @@
 |      03       |  Taller sobre aprendizaje profundo |  [Taller y aplicaciones web](https://github.com/cgl-itm/HerramientasIA/tree/main/01_IA_Basico)   | 
 |      04       |  Examen   |      |
 |      05       | Aprendizaje Supervisado   | Mini-Proyectos: Teachable Machines, Edge Impulse. |
-|      06       | Aprendizaje Supervisado   | Mini-Proyectos: Teachable Machines, Edge Impulse. |
-|      07       | IA Generativa texto-a-texto | ChatGPT, Claude, Gemini, Copilot, LLama  |
-|      08       | IA Generativa texto-a-texto | [Mini Proyecto: Diseño de Prompts](https://github.com/cgl-itm/HerramientasIA/blob/main/03_IA_Texto/FGL%20029%20Guia%20de%20Trabajo%20Practico%20-%20ChatGPT.pdf)  |
+|      06       | Aprendizaje Supervisado   | Solucion de dudas |
+|      07       | Presentacion mini proyectos |  |
+|      08       | IA Generativa texto-a-texto | ChatGPT, Claude, Gemini, Copilot, LLama  |
+|      09       | IA Generativa texto-a-texto | Aplicaciones: Datos, Excel, Automatizacion, Analisis de imagenes. [Mini Proyecto: Diseño de Prompts](https://github.com/cgl-itm/HerramientasIA/blob/main/03_IA_Texto/FGL%20029%20Guia%20de%20Trabajo%20Practico%20-%20ChatGPT.pdf)  |
+|      10       | IA Generativa texto-a-imagen | Flux.1, Midjourney, Leonardo, ChatGPT, Copilot.  |
+|      11       | IA Generativa texto-a-imagen |   |
 
 # Aplicaciones para Chat
 * [ChatGPT - OpenAI](https://chatgpt.com/)
