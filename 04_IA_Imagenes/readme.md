@@ -7,9 +7,10 @@
 * [Leonardo](https://app.leonardo.ai/)
 * [Mindjourney](https://www.midjourney.com/home)
 * [Adobe - Firefly](https://www.adobe.com/co/products/firefly.html)
-* [Stable Diffusion](https://huggingface.co/stabilityai/stable-diffusion-3-medium)
+* [Stable Diffusion](https://stablediffusionweb.com/#demo)
 * [Canva - Image Generator](https://www.canva.com/ai-image-generator/)
-* Chats: [ChatGPT-Dall-E 3](https://chatgpt.com/), [Copilot](https://copilot.microsoft.com/images/create?), 
+* Chats: [ChatGPT-Dall-E 3](https://chatgpt.com/), [Copilot](https://copilot.microsoft.com/images/create?),
+* [Perchance](https://perchance.org/ai-text-to-image-generator) No requiere inscripción, basico, caldiad baja, tiene publicidad.
 
 ## IA para presentaciones
 * [Napkin](https://www.napkin.ai/) Herramienta para crear diagramas e infografias a partir de textos. [Video de uso](https://www.youtube.com/watch?v=YM3vTG4rVJU).
