@@ -4,7 +4,7 @@
 * [Flux.1](https://blackforestlabs.ai/): Blackforest nos trae un modelo avanzado basado en Stable Diffusion.
 * [OpenAI - DALL-E](https://openart.ai/): ChatGPT para generar imagenes emplea su IA DALL-E (dali).
 * [Ideogram](https://ideogram.ai/t/explore): 
-* [Leonardo](https://app.leonardo.ai/)
+* [Leonardo](https://app.leonardo.ai/): Plataforma flexible para la generacion de imagenes. [Video tutorial](https://www.youtube.com/watch?v=xGHQgToC340).
 * [Mindjourney](https://www.midjourney.com/home)
 * [Adobe - Firefly](https://www.adobe.com/co/products/firefly.html)
 * [Stable Diffusion](https://stablediffusionweb.com/#demo)
