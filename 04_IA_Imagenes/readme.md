@@ -8,6 +8,7 @@
 * [Mindjourney](https://www.midjourney.com/home)
 * [Adobe - Firefly](https://www.adobe.com/co/products/firefly.html)
 * [Stable Diffusion](https://huggingface.co/stabilityai/stable-diffusion-3-medium)
+* [Canva - Image Generator](https://www.canva.com/ai-image-generator/)
 * Chats: [ChatGPT-Dall-E 3](https://chatgpt.com/), [Copilot](https://copilot.microsoft.com/images/create?), 
 
 ## IA para presentaciones
