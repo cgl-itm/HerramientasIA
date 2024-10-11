@@ -1,9 +1,9 @@
 # IA para generacion de imagenes
 
 ## IAs de texto-a-imagen
-* [Flux.1](https://blackforestlabs.ai/)
-* [OpenAI - DALLE.E](https://openart.ai/)
-* [Ideogram](https://ideogram.ai/t/explore)
+* [Flux.1](https://blackforestlabs.ai/): Blackforest nos trae un modelo avanzado basado en Stable Diffusion.
+* [OpenAI - DALL-E](https://openart.ai/): ChatGPT para generar imagenes emplea su IA DALL-E (dali).
+* [Ideogram](https://ideogram.ai/t/explore): 
 * [Leonardo](https://app.leonardo.ai/)
 * [Mindjourney](https://www.midjourney.com/home)
 * [Adobe - Firefly](https://www.adobe.com/co/products/firefly.html)
