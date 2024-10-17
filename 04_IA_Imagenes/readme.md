@@ -6,7 +6,7 @@
 * [Ideogram](https://ideogram.ai/t/explore): 
 * [Leonardo](https://app.leonardo.ai/): Plataforma flexible para la generacion de imagenes. [Video tutorial](https://www.youtube.com/watch?v=xGHQgToC340). Ejemplos de [prompts](https://medium.com/kinomoto-mag/best-leonardo-ai-artistic-prompts-5ebca1924f93).
 * [ImageFX](https://aitestkitchen.withgoogle.com/es/tools/image-fx): De la mano de Google, podemos generar imagenes.
-* [Mindjourney](https://www.midjourney.com/home)
+* [Mindjourney](https://www.midjourney.com/home): El mas conocido de todos. Funciona desde discord, pero requiere pagar.
 * [Adobe - Firefly](https://www.adobe.com/co/products/firefly.html)
 * [Stable Diffusion](https://stablediffusionweb.com/#demo)
 * [Canva - Image Generator](https://www.canva.com/ai-image-generator/)
