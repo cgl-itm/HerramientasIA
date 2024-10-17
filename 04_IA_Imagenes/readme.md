@@ -19,3 +19,6 @@
 * [Napkin](https://www.napkin.ai/) Herramienta para crear diagramas e infografias a partir de textos. [Video de uso](https://www.youtube.com/watch?v=YM3vTG4rVJU).
 * [SlideTeam](https://www.slideteam.net/Free-Online-AI-Presentation-Maker)
 * [Gamma](https://gamma.app/)
+
+## Generacion a partir de muestras
+* [Combina MÚLTIPLES PERSONAJES y ESTILOS en Flux (¡Muy Fácil) 🤯 Tutorial LORAs FLUX](https://www.youtube.com/watch?v=Ra2-cR1BGpg)
