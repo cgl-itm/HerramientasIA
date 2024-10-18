@@ -11,7 +11,7 @@
 |      08       | IA Generativa texto-a-texto | ChatGPT, Claude, Gemini, Copilot, LLama  |
 |      09       | IA Generativa texto-a-texto | Aplicaciones: Datos, Excel, Automatizacion, Analisis de imagenes. [Mini Proyecto: Diseño de Prompts](https://github.com/cgl-itm/HerramientasIA/blob/main/03_IA_Texto/FGL%20029%20Guia%20de%20Trabajo%20Practico%20-%20ChatGPT.pdf)  |
 |      10       | IA Generativa texto-a-imagen | Flux.1, Midjourney, Leonardo, ChatGPT, Copilot.  |
-|      11       | IA Generativa texto-a-imagen |   |
+|      11       | IA Generacion de Presentaciones |  [Mini Proyecto: Generacion de Presentaciones](https://github.com/cgl-itm/HerramientasIA/blob/main/04_IA_Imagenes/FGL%20029%20Guia%20de%20Trabajo%20Practico%20-%20Presentacion.pdf) |
 
 # Aplicaciones para Chat
 * [ChatGPT - OpenAI](https://chatgpt.com/)
