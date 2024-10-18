@@ -23,6 +23,8 @@
 * [SlidesAI.io](https://www.slidesai.io/es)
 * [Alayna](https://www.alayna.us/)
 
+## Imagen a Prompt
+* [imagetoprompt](https://imagetoprompt.com/): herramienta para generar el prompt a partir de una imagen.
 
 ## Generacion a partir de muestras
 * [Combina MÚLTIPLES PERSONAJES y ESTILOS en Flux (¡Muy Fácil) 🤯 Tutorial LORAs FLUX](https://www.youtube.com/watch?v=Ra2-cR1BGpg)
