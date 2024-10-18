@@ -18,7 +18,7 @@
 ## IA para presentaciones
 * [Napkin](https://www.napkin.ai/) Herramienta para crear diagramas e infografias a partir de textos. [Video de uso](https://www.youtube.com/watch?v=YM3vTG4rVJU).
 * [SlideTeam](https://www.slideteam.net/Free-Online-AI-Presentation-Maker)
-* [Gamma](https://gamma.app/)
+* [Gamma](https://gamma.app/): IA dedicada a la generación de presentaciones, puede exportar la presentacion a Power Points. [Tutorial 1](https://www.youtube.com/watch?v=RM-DyVpQsB4). 
 
 ## Generacion a partir de muestras
 * [Combina MÚLTIPLES PERSONAJES y ESTILOS en Flux (¡Muy Fácil) 🤯 Tutorial LORAs FLUX](https://www.youtube.com/watch?v=Ra2-cR1BGpg)
