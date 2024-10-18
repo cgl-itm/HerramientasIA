@@ -21,7 +21,7 @@
 * [Office365 - PowerPoint]: Uso de herramientas de IA para PowerPoint. [Video Tutorial](https://www.youtube.com/watch?v=SGyPSSflFYA)
 * [SlideTeam](https://www.slideteam.net/Free-Online-AI-Presentation-Maker)
 * [SlidesAI.io](https://www.slidesai.io/es)
-* [Alayna](https://www.alayna.us/)
+* [Alayna](https://www.alayna.us/): Herramienta para Google Slides. [Tutorial](https://www.youtube.com/watch?v=uvlSpTpipsw).
 
 ## Imagen a Prompt
 * [imagetoprompt](https://imagetoprompt.com/): herramienta para generar el prompt a partir de una imagen.
