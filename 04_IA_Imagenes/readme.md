@@ -18,7 +18,7 @@
 ## IA para presentaciones
 * [Napkin](https://www.napkin.ai/) Herramienta para crear diagramas e infografias a partir de textos. [Video de uso](https://www.youtube.com/watch?v=YM3vTG4rVJU).
 * [Gamma](https://gamma.app/): IA dedicada a la generación de presentaciones, puede exportar la presentacion a Power Points. [Tutorial 1](https://www.youtube.com/watch?v=RM-DyVpQsB4), [Tutorial 2](https://www.youtube.com/watch?v=fYXSwKJCJoU). 
-* [Office365 - PowerPoint]: Uso de herramientas de IA para PowerPoint. [Video Tutorial](https://www.youtube.com/watch?v=SGyPSSflFYA)
+* [Office365 - PowerPoint](https://www.microsoft.com/es-co/microsoft-365/powerpoint): Uso de herramientas de IA para PowerPoint. [Video Tutorial](https://www.youtube.com/watch?v=SGyPSSflFYA)
 * [SlideTeam](https://www.slideteam.net/Free-Online-AI-Presentation-Maker)
 * [Simplified](https://app.simplified.com/) Conjunto de herramientas de IA para escribir, generar imagenes y demas, con el fin de crear presentaciones.
 * [SlidesAI.io](https://www.slidesai.io/es) Extension para google chorme, enfocada para presentaciones en Google Slides.
