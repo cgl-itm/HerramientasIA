@@ -24,6 +24,7 @@
 * [SlidesAI.io](https://www.slidesai.io/es) Extension para google chorme, enfocada para presentaciones en Google Slides.
 * [Alayna](https://www.alayna.us/): Herramienta para Google Slides. [Tutorial](https://www.youtube.com/watch?v=uvlSpTpipsw).
 * [Biutiful.ai](https://www.beautiful.ai/) Herramienta de pago que te deja usarla gratis por un tiempo.
+* [Tome](https://tome.app/) Generator de presentacion interesante con una forma unica de construir las dispositivas.
 
 ## Imagen a Prompt
 * [imagetoprompt](https://imagetoprompt.com/): herramienta para generar el prompt a partir de una imagen.
