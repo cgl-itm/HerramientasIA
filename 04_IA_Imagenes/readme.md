@@ -23,6 +23,7 @@
 * [Simplified](https://app.simplified.com/) Conjunto de herramientas de IA para escribir, generar imagenes y demas, con el fin de crear presentaciones.
 * [SlidesAI.io](https://www.slidesai.io/es) Extension para google chorme, enfocada para presentaciones en Google Slides.
 * [Alayna](https://www.alayna.us/): Herramienta para Google Slides. [Tutorial](https://www.youtube.com/watch?v=uvlSpTpipsw).
+* [Biutiful.ai](https://www.beautiful.ai/) Herramienta de pago que te deja usarla gratis por un tiempo.
 
 ## Imagen a Prompt
 * [imagetoprompt](https://imagetoprompt.com/): herramienta para generar el prompt a partir de una imagen.
