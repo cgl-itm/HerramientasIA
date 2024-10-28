@@ -13,7 +13,7 @@
 * Chats: [ChatGPT-Dall-E 3](https://chatgpt.com/), [Copilot](https://copilot.microsoft.com/images/create?),
 * [Kling](https://klingai.com/)
 * [RunAway](https://app.runwayml.com/video-tools/teams/cdguarnizo/ai-tools/text-to-image)
-* [Perchance](https://perchance.org/ai-text-to-image-generator) No requiere inscripción, basico, caldiad baja, tiene publicidad.
+* [Perchance](https://perchance.org/ai-text-to-image-generator) No requiere inscripción, basico, calidad baja, tiene publicidad.
 
 ## IA para presentaciones
 * [Napkin](https://www.napkin.ai/) Herramienta para crear diagramas e infografias a partir de textos. [Video de uso](https://www.youtube.com/watch?v=YM3vTG4rVJU).
