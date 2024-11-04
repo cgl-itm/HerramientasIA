@@ -1,9 +1,9 @@
 # Herramientas para generar videos
 
-# Herramientas Generales
+## Herramientas Generales
 * [VidNoz](https://es.vidnoz.com/)
 
-# De texto a video
+## De texto a video
 * [Pika](https://pika.art/home)
 
-# De imagen a video
+## De imagen a video
