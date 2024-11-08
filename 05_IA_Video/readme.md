@@ -10,7 +10,7 @@
 * [MiniMax](https://minimax-ai.org/)
 
 ## De imagen a video
-* [Pika](https://pika.art/home) Tambien puede convertir de texto a video pero es pago.l
+* [Pika](https://pika.art/home) Tambien puede convertir de texto a video pero es pago.
 * [Leonardo.AI](https://leonardo.ai/)
 
   
