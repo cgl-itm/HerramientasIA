@@ -13,6 +13,8 @@
 * [Pika](https://pika.art/home) Tambien puede convertir de texto a video pero es pago.
 * [Leonardo.AI](https://leonardo.ai/)
 
+## Character animation
+* [Viggle](https://viggle.ai/)
   
 ## Analizar videos
 * [Video Highlight](https://videohighlight.com/)
