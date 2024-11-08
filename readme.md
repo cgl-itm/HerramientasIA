@@ -14,7 +14,7 @@
 |      11       | IA Generacion de Presentaciones |  [Mini Proyecto: Generacion de Presentaciones](https://github.com/cgl-itm/HerramientasIA/blob/main/04_IA_Imagenes/FGL%20029%20Guia%20de%20Trabajo%20Practico%20-%20Presentacion.pdf) |
 |      12       | Trabajo Independiente IA Generacion de Presentaciones |  |
 |      13       | Presentacion proyecto: IA Generacion de Presentaciones |  |
-|      14       | Generacion de video con IA | [Mini Proyecto: Generacion de Videos](https://github.com/cgl-itm/HerramientasIA/blob/main/05_IA_Video/FGL%20029%20Guia%20de%20Trabajo%20Practico%20-%20Video.pdf) |
+|      14       | [Generacion de video con IA](https://github.com/cgl-itm/HerramientasIA/blob/main/05_IA_Video/08_IAVideos.pdf) | [Mini Proyecto: Generacion de Videos](https://github.com/cgl-itm/HerramientasIA/blob/main/05_IA_Video/FGL%20029%20Guia%20de%20Trabajo%20Practico%20-%20Video.pdf) |
 
 
 # Aplicaciones para Chat
