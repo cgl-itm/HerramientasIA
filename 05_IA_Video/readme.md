@@ -22,7 +22,7 @@
   
 ## Analizar videos
 * [Video Highlight](https://videohighlight.com/)
-* [NotebookLM - Google]
+* [NotebookLM - Google](https://notebooklm.google/)
 
 # Tutoriales
 
