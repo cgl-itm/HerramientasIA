@@ -7,6 +7,7 @@
 * [Kling](https://klingai.com/) Potente herramienta, ver guia de [prompts](https://filmart.ai/kling-ai-prompts-and-mastering-ai-video/).
 * [Dream Machine](https://lumalabs.ai/dream-machine)
 * [PixeVerse](https://pixverse.ai/)
+* [Krea](https://www.krea.ai/)
 * [MiniMax](https://minimax-ai.org/)
 
 ## De imagen a video
