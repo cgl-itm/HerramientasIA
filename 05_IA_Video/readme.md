@@ -3,17 +3,15 @@
 ## Herramientas Generales
 * [VidNoz](https://es.vidnoz.com/)
 
-## De texto a video
-* [Kling]() Potente herramienta, ver guia de [prompts](https://filmart.ai/kling-ai-prompts-and-mastering-ai-video/).
+## De texto e Imagen a Video
+* [Kling](https://klingai.com/) Potente herramienta, ver guia de [prompts](https://filmart.ai/kling-ai-prompts-and-mastering-ai-video/).
 * [Dream Machine](https://lumalabs.ai/dream-machine)
 * [PixeVerse](https://pixverse.ai/)
 * [MiniMax](https://minimax-ai.org/)
 
-
 ## De imagen a video
-* [Pika](https://pika.art/home)
-* [Kling](https://lumalabs.ai/dream-machine)
-* [Dream Machine](https://lumalabs.ai/dream-machine)
+* [Pika](https://pika.art/home) Tambien puede convertir de texto a video pero es pago.l
+* [Leonardo.AI](https://leonardo.ai/)
 
   
 ## Analizar videos
