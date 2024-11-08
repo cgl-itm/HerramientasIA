@@ -9,6 +9,7 @@
 * [PixeVerse](https://pixverse.ai/)
 * [Krea](https://www.krea.ai/)
 * [MiniMax](https://minimax-ai.org/)
+  
 
 ## De imagen a video
 * [Pika](https://pika.art/home) Tambien puede convertir de texto a video pero es pago.
@@ -16,6 +17,7 @@
 
 ## Character animation
 * [Viggle](https://viggle.ai/)
+* [Hedra](https://www.hedra.com/)
   
 ## Analizar videos
 * [Video Highlight](https://videohighlight.com/)
