@@ -15,6 +15,8 @@
 |      12       | Trabajo Independiente IA Generacion de Presentaciones |  |
 |      13       | Presentacion proyecto: IA Generacion de Presentaciones |  |
 |      14       | [Generacion de video con IA](https://github.com/cgl-itm/HerramientasIA/blob/main/05_IA_Video/08_IAVideos.pdf) | [Mini Proyecto: Generacion de Videos](https://github.com/cgl-itm/HerramientasIA/blob/main/05_IA_Video/FGL%20029%20Guia%20de%20Trabajo%20Practico%20-%20Video.pdf) |
+|      15       | [Usos Practicos de la IA](https://github.com/cgl-itm/HerramientasIA/blob/main/05_IA_Video/09_UsosPracticosIA.pdf) |  |
+
 
 
 ## Aplicaciones para Chat
