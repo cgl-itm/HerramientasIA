@@ -17,13 +17,16 @@
 |      14       | [Generacion de video con IA](https://github.com/cgl-itm/HerramientasIA/blob/main/05_IA_Video/08_IAVideos.pdf) | [Mini Proyecto: Generacion de Videos](https://github.com/cgl-itm/HerramientasIA/blob/main/05_IA_Video/FGL%20029%20Guia%20de%20Trabajo%20Practico%20-%20Video.pdf) |
 
 
-# Aplicaciones para Chat
+## Aplicaciones para Chat
 * [ChatGPT - OpenAI](https://chatgpt.com/)
 * [Claude - Anthropic](https://claude.ai/)
 * [Gemini - Google](https://gemini.google.com/)
 * [Llama - Meta](https://llama.meta.com/)
-* [Perplexity](https://www.perplexity.ai/)
 
-# Chatea con Dcumentos
+## Busqueda Web
+* [Perplexity](https://www.perplexity.ai/) Herramienta bastante empleado para busquedas en la web.
+* [Morphic](https://www.morphic.sh/) Video de [introduccion](https://www.youtube.com/watch?v=DNlfxJHpbRw).
+
+## Chatea con Documentos
 * [AskDocs](https://www.askdocs.com/)
 * [ChatPDF](https://www.chatpdf.com/)
