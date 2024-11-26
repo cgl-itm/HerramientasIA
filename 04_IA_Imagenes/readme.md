@@ -2,6 +2,7 @@
 
 ## Camera viewpoint
 * [Camera Positions examples](https://unimatrixz.com/blog/latent-space-camera-positions/)
+* [Midjourney - Camera angles](https://midjourneyv6.org/midjourney-v6-camera-angles/)
 
 ## IAs de texto-a-imagen
 * [Flux.1](https://blackforestlabs.ai/): Blackforest nos trae un modelo avanzado basado en Stable Diffusion.
