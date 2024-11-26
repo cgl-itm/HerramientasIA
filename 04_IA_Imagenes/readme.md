@@ -1,5 +1,8 @@
 # IA para generacion de imagenes
 
+## Camera viewpoint
+* [Camera Positions examples](https://unimatrixz.com/blog/latent-space-camera-positions/)
+
 ## IAs de texto-a-imagen
 * [Flux.1](https://blackforestlabs.ai/): Blackforest nos trae un modelo avanzado basado en Stable Diffusion.
 * [OpenAI - DALL-E](https://openart.ai/): ChatGPT para generar imagenes emplea su IA DALL-E (dali).
