@@ -5,12 +5,12 @@
 
 ## De texto e Imagen a Video
 * [Kling](https://klingai.com/) Potente herramienta, ver guia de [prompts](https://filmart.ai/kling-ai-prompts-and-mastering-ai-video/).
-* [Dream Machine](https://lumalabs.ai/dream-machine)
+* [Dream Machine](https://lumalabs.ai/dream-machine): Producto de LumaLabs.
 * [PixeVerse](https://pixverse.ai/)
 * [Krea](https://www.krea.ai/)
 * [MiniMax](https://minimax-ai.org/)
+* [FreePik](https://www.freepik.com/): Trae varias herramientas para generar imagenes y generar videos. [Video explicativo](https://www.youtube.com/watch?v=7BSRj5nJcZ0)
   
-
 ## De imagen a video
 * [Pika](https://pika.art/home) Tambien puede convertir de texto a video pero es pago.
 * [Leonardo.AI](https://leonardo.ai/)
