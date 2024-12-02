@@ -26,7 +26,7 @@ Entonces la IA te dira en que actividades te puede ayuar. Luego le puedes pedir 
 
 ## Chat LLMs 
 * [OpenAI - ChatGPT](https://chatgpt.com/)
-* [Google - Gemini](https://gemini.google.com/app?hl=es)
+* [Google - Gemini](https://gemini.google.com/app?hl=es) Tambien puede ver un analizador de prompts usando [AI Studio](https://aistudio.google.com/gallery).
 * [Microsoft - Copilot](https://copilot.microsoft.com/)
 * [Anthropic - Claude](https://claude.ai/)
 
