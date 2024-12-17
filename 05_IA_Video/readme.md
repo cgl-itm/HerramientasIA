@@ -4,6 +4,8 @@
 * [VidNoz](https://es.vidnoz.com/)
 
 ## De texto e Imagen a Video
+* [Veo2 - Google](https://deepmind.google/technologies/veo/veo-2/)
+* [Sora - OpenAI](https://sora.com/)
 * [Kling](https://klingai.com/) Potente herramienta, ver guia de [prompts](https://filmart.ai/kling-ai-prompts-and-mastering-ai-video/).
 * [Dream Machine](https://lumalabs.ai/dream-machine): Producto de LumaLabs.
 * [PixeVerse](https://pixverse.ai/)
