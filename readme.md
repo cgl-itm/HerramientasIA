@@ -25,6 +25,9 @@
 * [Gemini - Google](https://gemini.google.com/)
 * [Llama - Meta](https://llama.meta.com/)
 
+## Multi-modal 
+* [Desarrolla tu Propio NotebookLM desde Cero (Masterclass RAG)](https://www.youtube.com/watch?v=N3IN2pG6ZMM)
+
 ## Busqueda Web
 * [Perplexity](https://www.perplexity.ai/) Herramienta bastante empleado para busquedas en la web.
 * [Morphic](https://www.morphic.sh/) Video de [introduccion](https://www.youtube.com/watch?v=DNlfxJHpbRw).
