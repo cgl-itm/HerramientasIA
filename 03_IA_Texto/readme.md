@@ -32,6 +32,7 @@ Entonces la IA te dira en que actividades te puede ayuar. Luego le puedes pedir 
 
 ## Ejemplos Prompts
 
+* [Awesome Prompt Engineering](https://github.com/f/awesome-chatgpt-prompts)
 * [ChatGPT para estudiar ingles - ElEspectador](https://www.elespectador.com/tecnologia/como-usar-chatgpt-para-aprender-o-mejorar-su-ingles-consejos-prompts-y-ejercicios-efectivos/)
 * [Como crear GPTs con un solo Prompt](https://www.youtube.com/watch?v=GfJxzWHNmxE)
 * Prompt con formato [REDICE](https://www.youtube.com/watch?v=raG27UGapis) (Rol, Entorno, Deber, Instrucciones, Comentario, Evaluar)
