@@ -28,6 +28,11 @@
 ## Multi-modal 
 * [Desarrolla tu Propio NotebookLM desde Cero (Masterclass RAG)](https://www.youtube.com/watch?v=N3IN2pG6ZMM)
 
+## Generacion de videos
+* [Sora - OpenAI](https://sora.chatgpt.com)
+* [Nano Banana - Google](https://gemini.google/overview/image-generation/)
+* [Qwen Image](https://chat.qwen.ai/?inputFeature=t2i)
+
 ## Busqueda Web
 * [Perplexity](https://www.perplexity.ai/) Herramienta bastante empleado para busquedas en la web.
 * [Morphic](https://www.morphic.sh/) Video de [introduccion](https://www.youtube.com/watch?v=DNlfxJHpbRw).
