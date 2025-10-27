@@ -5,6 +5,7 @@
 * [Midjourney - Camera angles](https://midjourneyv6.org/midjourney-v6-camera-angles/)
 
 ## IAs de texto-a-imagen
+* [NanoBanana - Google](https://github.com/JimmyLv/awesome-nano-banana)
 * [Flux.1](https://blackforestlabs.ai/): Blackforest nos trae un modelo avanzado basado en Stable Diffusion.
 * [OpenAI - DALL-E](https://openart.ai/): ChatGPT para generar imagenes emplea su IA DALL-E (dali).
 * [Ideogram](https://ideogram.ai/t/explore): 
